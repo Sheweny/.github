@@ -8,7 +8,7 @@ Sheweny is an organization created in august 2021, initially with the sole purpo
 
 #### ✨ Future 
 
-Today several are already using Sheweny and we want to continue development in order to always offer interesting and innovative features.
+Today several bots are already using Sheweny and we want to continue development in order to always offer interesting and innovative features.
 
 #### 🌍 Contribution
 
