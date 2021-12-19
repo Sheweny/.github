@@ -1,6 +1,6 @@
 # Sheweny
 
-![Sheweny banner](https://cdn.discordapp.com/attachments/881988260925153322/922206543112445992/sheweny_baniere_7.png)
+![Sheweny banner](https://cdn.discordapp.com/attachments/881988260925153322/922206875863375922/sheweny_baniere_8.png)
 
 #### 🌠 History 
 
